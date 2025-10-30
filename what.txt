@@ -9,5 +9,5 @@ git push -u origin main
 ## After the 1st push we need only
 
 git add .
-git commit -m " give commit"
-git push -u origin main
+git commit -m "give commit"
+NOTE: 1st push we don't need "git push -u origin main". we just need "git push"
