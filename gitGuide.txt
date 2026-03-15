@@ -36,6 +36,7 @@ NOTE: 1st push we don't need "git push -u origin main". we just need "git push"
 first up all download the file of the clone file
 Clone
 git clone https://github.com/Nishan9702/C7.git (of wanted link)
+
 git add . [it add all the file] [git add file.html (used for specific file)]
 git status (not necessary)
 git checkout -b login
@@ -44,9 +45,6 @@ git push origin login
 
 After download file.
 git pull origin main (note remember the path)
-
-
- 
 
 
 
